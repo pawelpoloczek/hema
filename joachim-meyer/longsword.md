@@ -16,5 +16,17 @@ Postawa Tag - szermierz z lewej strony na pierwszym planie:
 Olber, czyli Głupiec, to niska pozycja, w której miecz skierowany jest do dołu. Meyer używał tej postawy do oznaczenia wszystkich cięć z dołu. Nazwa "Olber" wynika z przekonania, że ataki z dołu wydają się naiwne w porównaniu do tych z góry.
 
 Postawa Olber - szermierz z prawej strony na pierwszym planie:
-![Tag](Meyer_1570_Sword_C.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_C.png)
+![Olber](Meyer_1570_Sword_C.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_C.png)
 
+## Ochs (Wół)
+
+Ochs (Wół) to wysoka pozycja z wysuniętym do przodu ostrzem, przeznaczona głównie do pchnięć. W tej postawie miecz trzymany jest na wysokości głowy, z ostrzem skierowanym na przeciwnika.
+
+Postawa Ochs - szermierz z lewej strony na pierwszym planie:
+![Ochs](Meyer_1570_Sword_A.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_A.png)
+
+Postawa Ochs - szermierz z lewej strony na pierwszym planie:
+![Ochs](Meyer_1570_Sword_B.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_B.png)
+
+Postawa Ochs - szermierz z lewej strony na pierwszym planie:
+![Ochs](Meyer_1570_Sword_D.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_D.png)
