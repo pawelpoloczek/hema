@@ -30,3 +30,13 @@ Postawa Ochs - szermierz z lewej strony na pierwszym planie:
 
 Postawa Ochs - szermierz z lewej strony na pierwszym planie:
 ![Ochs](Meyer_1570_Sword_D.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_D.png)
+
+Postawa Ochs - szermierz z prawej strony na pierwszym planie:
+![Ochs](Meyer_1570_Sword_E.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_E.png)
+
+## Pflug (Pług)
+
+Pflug (Pług) to niska pozycja z ostrzem skierowanym do przodu. Meyer opisywał tę postawę jako "niską pozycję po prawej (lub lewej) z punktem do przodu".
+
+Postawa Pflug - szermierz z prawej strony na pierwszym planie:
+![Ochs](Meyer_1570_Sword_B.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_B.png)
