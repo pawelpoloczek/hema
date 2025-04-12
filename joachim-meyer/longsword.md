@@ -8,4 +8,13 @@ Niemiecki szermierz, jest uważany za ostatnią znaczącą postać w tradycji ni
 
 Postawa Tag, znana również jako Dach (Dach), była wysoką pozycją, w której miecz trzymany był nad głową, gotowy do wykonania potężnych cięć z góry. Meyer używał tej postawy do oznaczenia wszystkich cięć z góry w swoim systemie.
 
+Postawa Tag - szermierz z lewej strony na pierwszym planie:
 ![Tag](Meyer_1570_Sword_C.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_C.png)
+
+## Olber (Głupiec)
+
+Olber, czyli Głupiec, to niska pozycja, w której miecz skierowany jest do dołu. Meyer używał tej postawy do oznaczenia wszystkich cięć z dołu. Nazwa "Olber" wynika z przekonania, że ataki z dołu wydają się naiwne w porównaniu do tych z góry.
+
+Postawa Olber - szermierz z prawej strony na pierwszym planie:
+![Tag](Meyer_1570_Sword_C.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_C.png)
+
