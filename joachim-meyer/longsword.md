@@ -11,14 +11,14 @@ Postawa Tag, znana również jako Dach (Dach), była wysoką pozycją, w której
 Postawa Tag - szermierz z lewej strony na pierwszym planie:
 ![Tag](Meyer_1570_Sword_C.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_C.png)
 
-## Olber (Głupiec)
+### Olber (Głupiec)
 
 Olber, czyli Głupiec, to niska pozycja, w której miecz skierowany jest do dołu. Meyer używał tej postawy do oznaczenia wszystkich cięć z dołu. Nazwa "Olber" wynika z przekonania, że ataki z dołu wydają się naiwne w porównaniu do tych z góry.
 
 Postawa Olber - szermierz z prawej strony na pierwszym planie:
 ![Olber](Meyer_1570_Sword_C.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_C.png)
 
-## Ochs (Wół)
+### Ochs (Wół)
 
 Ochs (Wół) to wysoka pozycja z wysuniętym do przodu ostrzem, przeznaczona głównie do pchnięć. W tej postawie miecz trzymany jest na wysokości głowy, z ostrzem skierowanym na przeciwnika.
 
@@ -34,9 +34,24 @@ Postawa Ochs - szermierz z lewej strony na pierwszym planie:
 Postawa Ochs - szermierz z prawej strony na pierwszym planie:
 ![Ochs](Meyer_1570_Sword_E.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_E.png)
 
-## Pflug (Pług)
+### Pflug (Pług)
 
 Pflug (Pług) to niska pozycja z ostrzem skierowanym do przodu. Meyer opisywał tę postawę jako "niską pozycję po prawej (lub lewej) z punktem do przodu".
 
 Postawa Pflug - szermierz z prawej strony na pierwszym planie:
 ![Ochs](Meyer_1570_Sword_B.png) (źródło: https://wiktenauer.com/wiki/File:Meyer_1570_Sword_B.png)
+
+## Postawy Poboczne (Bej Leger)
+
+### Lanngort (Długi Punkt)
+
+Lanngort to pozycja z wyciągniętymi ramionami i wysuniętym mieczem. W tej postawie miecz jest skierowany bezpośrednio na przeciwnika, tworząc długą linię ataku.
+
+### Eisennport (Żelazna Brama)
+W postawie Eisennport (Żelazna Brama) jelec miecza znajduje się przed wysuniętym kolanem, a ostrze skierowane jest na twarz przeciwnika. W przypadku długiego miecza, można przyjąć tę postawę z dowolną nogą wysuniętą do przodu.
+
+### Henngetort (Wiszący Punkt)
+Henngetort to pozycja z opuszczonym ostrzem. W tej postawie miecz jest trzymany pod kątem, z ostrzem skierowanym w dół.
+
+### Sprechfenster (Okno Mowy)
+Sprechfenster to defensywna pozycja z mieczem trzymanym przed sobą, tworzącym barierę między szermierzem a przeciwnikiem.
